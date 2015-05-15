@@ -17,3 +17,7 @@ And then execute:
 ## Usage
 
 Post an excuse from [Developer Excuses](http://developerexcuses.com/) into a room by typing ```!excuse``` in chat.
+
+## Links
+
+* [isis-plugin-excuses on RubyGems](https://rubygems.org/gems/isis-plugin-excuses)
